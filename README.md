@@ -13,7 +13,7 @@
 ## Introduction
 
 - HackerRank 30DaysOfJavaScript Challenge.
-- Check [10DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) Challenge.
+- Check [30DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/30-days-of-code?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=30-days-of-code) Challenge.
 - I'll be providing solution for JavaScript 30 days challenge for Hackerrank.
 
 ## Difficulty Level
