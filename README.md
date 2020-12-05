@@ -1,6 +1,6 @@
-# [10DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+# [30DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 
-- [10DaysOfJavaScript](#10daysofjavascript)
+- [30DaysOfJavaScript](#10daysofjavascript)
   - [Introduction](#introduction)
   - [Difficulty Level](#difficulty-level)
   - [Usage](#usage)
@@ -14,7 +14,7 @@
 
 - HackerRank 10DaysOfJavaScript Challenge.
 - Check [10DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) Challenge.
-- I'll be providing solution for JavaScript 10 days challenge for Hackerrank.
+- I'll be providing solution for JavaScript 30 days challenge for Hackerrank.
 
 ## Difficulty Level
 
@@ -51,7 +51,7 @@ For open-source projects, Under MIT License.
 
 ## Author
 
-- Project: [10DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+- Project: [10DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/30-days-of-code?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=30-days-of-code)
 - Author: Nishtha
 - Language: JavaScript
 - Github: <https://github.com/nishtha53>
