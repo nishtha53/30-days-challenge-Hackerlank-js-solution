@@ -1,4 +1,4 @@
-# [30DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+# [30DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/30-days-of-code?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=30-days-of-code)
 
 - [30DaysOfJavaScript](#10daysofjavascript)
   - [Introduction](#introduction)
@@ -12,7 +12,7 @@
 
 ## Introduction
 
-- HackerRank 10DaysOfJavaScript Challenge.
+- HackerRank 30DaysOfJavaScript Challenge.
 - Check [10DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) Challenge.
 - I'll be providing solution for JavaScript 30 days challenge for Hackerrank.
 
@@ -51,7 +51,7 @@ For open-source projects, Under MIT License.
 
 ## Author
 
-- Project: [10DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/30-days-of-code?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=30-days-of-code)
+- Project: [30DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/30-days-of-code?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=30-days-of-code)
 - Author: Nishtha
 - Language: JavaScript
 - Github: <https://github.com/nishtha53>
